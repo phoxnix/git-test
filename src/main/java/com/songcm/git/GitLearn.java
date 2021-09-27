@@ -5,5 +5,7 @@ public class GitLearn {
         System.out.println("learn git");
         System.out.println("learn git go on");
         System.out.println("hot-fix commit1");
+        System.out.println("master commited");
+
     }
 }
