@@ -10,5 +10,8 @@ public class GitLearn {
 
         System.out.println("hot-fix ui");
         System.out.println("master ui");
+
+        System.out.println("practice github push");
+
     }
 }
