@@ -14,4 +14,5 @@ public class GitLearn {
         System.out.println("practice github push");
 
     }
+    public static void haha(){}
 }
